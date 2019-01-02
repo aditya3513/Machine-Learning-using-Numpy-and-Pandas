@@ -1,0 +1,48 @@
+Question 3.1:
+
+(1): Refer to file kmeans.py, for running python kmeans.py and replace that name of file by changing the variable "file_name".
+
+(2): Refer to file Kmeans.py, it outputs both NMI ans SSe value for each cluster value, i.e each k
+
+(3): I have observed each graph and whenever there is a sudden drop in value of SSE that shows that its the best value as k as after this cluster get bigger and contain more data 		 points so sse decreases.
+
+
+
+Question 3.2:
+
+(1): In folder "results", there are folders refering to each csv file with same name and they contain tables with name like gmm_result or kmeans_result
+	 This folder also contains all graphs (both sse and nmi for kmeans and gmm) for related to this file.
+
+(2): refer to result.txt file in this folder for every file.
+
+(3) refer to "results_class_size" folder it has same structure as "results" folder.
+
+
+Question 4.1:
+
+(1): Refer to file gmm.py, for running python gmm.py and replace that name of file by changing the variable "file_name".
+
+(2,3): Refer to file Kmeans.py, it outputs both NMI ans SSe value for each cluster value, i.e each k
+
+(4): NMI is better for GMM as can see whenever there is a drastic change in NMI vales that means that cluster size is now just fitting the data, as in overfits data now.
+
+Question 4.2:
+
+(1,2): In folder "results", there are folders refering to each csv file with same name and they contain tables with name like gmm_result or kmeans_result
+	 This folder also contains all graphs (both sse and nmi for kmeans and gmm) for related to this file.
+
+(3): refer to result.txt file in this folder for every file.
+
+(4): refer to result.txt file in this folder for every file.
+
+(5): refer to "results_class_size" folder it has same structure as "results" folder.
+
+Question 5:
+
+(1): Depends on how seperable data is if data is too close to eachother then Kmeans will have problem as it does hard clustering and is kind of a case of GMM clustering does soft clustring as it gives you the uncertainity that Xi can be label 1 or 2 with 10% and 20% certainity respectively.
+
+(2): The more the NMI calue is for a clustering we can say the better backer the cluster is. If a cluster is fully seperable then in that case NMi will be one and lower nmi shows that data is not close to each other. Secondly GMM does a better job in most cases as 
+
+(3): Yes initialization affects the clustering, it can affect how fast the clustering will converge. I did some tests where it showed that if i selected the random points from only half of range of X the results changed a lot same if i took mean of all different sections which are divided on basis of number of clusters, example if i have k = 4 then i break X into 4 parts and take means of these parts and each mean is a centroid initially. This gave me different results. For both the clustering.
+
+(4): It depends on kind of data, I have used euclidean distance as a measure, it can change the results depending on how data is spread if data is very close then may be a case can be possibel where a points is slmost equally distant from two centroids, in these cases using a distant meric is better. When we have large number of classes then this distance metric may not provide better results.

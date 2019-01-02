@@ -1,0 +1,122 @@
+------------------------------------------
+Training results for fold =  1  [C] =  0.5
+Final Results for all k folds
+auc score =  0.992
+
+
+ Validation results for fold =  1  [C] =  0.5
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  2  [C] =  64.0
+Final Results for all k folds
+auc score =  0.9843076923076923
+
+
+ Validation results for fold =  2  [C] =  64.0
+Final Results for all k folds
+accuracy =  0.9444444444444444
+recall =  1.0
+precision =  0.875
+------------------------------------------
+Training results for fold =  3  [C] =  32.0
+Final Results for all k folds
+auc score =  0.9883076923076924
+
+
+ Validation results for fold =  3  [C] =  32.0
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  4  [C] =  0.5
+Final Results for all k folds
+auc score =  0.992
+
+
+ Validation results for fold =  4  [C] =  0.5
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  5  [C] =  1.0
+Final Results for all k folds
+auc score =  0.9883076923076924
+
+
+ Validation results for fold =  5  [C] =  1.0
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  6  [C] =  0.5
+Final Results for all k folds
+auc score =  0.992
+
+
+ Validation results for fold =  6  [C] =  0.5
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  7  [C] =  1.0
+Final Results for all k folds
+auc score =  0.9883076923076924
+
+
+ Validation results for fold =  7  [C] =  1.0
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  8  [C] =  16.0
+Final Results for all k folds
+auc score =  0.9883076923076924
+
+
+ Validation results for fold =  8  [C] =  16.0
+Final Results for all k folds
+accuracy =  0.9444444444444444
+recall =  1.0
+precision =  0.75
+------------------------------------------
+Training results for fold =  9  [C] =  16.0
+Final Results for all k folds
+auc score =  0.9960000000000001
+
+
+ Validation results for fold =  9  [C] =  16.0
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+------------------------------------------
+Training results for fold =  10  [C] =  4.0
+Final Results for all k folds
+auc score =  0.9960000000000001
+
+
+ Validation results for fold =  10  [C] =  4.0
+Final Results for all k folds
+accuracy =  1.0
+recall =  1.0
+precision =  1.0
+
+
+
+
+================================
+Final Results for all k folds
+mean accuracy =  0.9888888888888889
+std dev. accuracy =  0.022222222222222233
+mean recall =  1.0
+std dev. recall =  0.0
+mean precision =  0.9625
+std dev. precision =  0.08003905296791061

@@ -1,0 +1,19 @@
+Question 1:
+1.2 
+(a): Confusion matrix at the end in code execution, along with accuracy and average accuracy.
+
+(b): Confusion matrix at the end in code execution, along with accuracy and average accuracy.
+
+(c): For smaller values, We have more branches as threshold doesnt allows less type of similar class values to form a leaf node.
+	 But for larger values, there are cases where we have 25 classes saying yes and making a leaf node by values yes)
+	 So over all for larger values of threshold we have lesser computation ,since less splits.
+
+(d): Not Done
+
+Question 6: 
+(a): All values dicplayed at the end of code execution.
+
+(b,c [since both are same]): 
+=> Yes it affects the results as it changes how many similar values will make a leaf node by class name. For lower values it means more leafs.
+(d) not done
+

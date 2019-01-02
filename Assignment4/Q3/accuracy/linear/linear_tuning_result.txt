@@ -1,0 +1,122 @@
+------------------------------------------
+Training results for fold =  1  [C] =  0.25
+Final Results for all k folds
+score =  0.82487922705314
+
+
+ Validation results for fold =  1  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7939262472885033
+recall =  0.9329896907216495
+precision =  0.688212927756654
+------------------------------------------
+Training results for fold =  2  [C] =  0.25
+Final Results for all k folds
+score =  0.8524387685529973
+
+
+ Validation results for fold =  2  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7652173913043478
+recall =  0.9728260869565217
+precision =  0.6347517730496454
+------------------------------------------
+Training results for fold =  3  [C] =  0.25
+Final Results for all k folds
+score =  0.8492989633048375
+
+
+ Validation results for fold =  3  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.691304347826087
+recall =  0.9828571428571429
+precision =  0.5530546623794212
+------------------------------------------
+Training results for fold =  4  [C] =  0.25
+Final Results for all k folds
+score =  0.8558207024352722
+
+
+ Validation results for fold =  4  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7369565217391304
+recall =  0.9842931937172775
+precision =  0.6143790849673203
+------------------------------------------
+Training results for fold =  5  [C] =  0.25
+Final Results for all k folds
+score =  0.8550954820137177
+
+
+ Validation results for fold =  5  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.75
+recall =  0.9823529411764705
+precision =  0.5985663082437276
+------------------------------------------
+Training results for fold =  6  [C] =  0.25
+Final Results for all k folds
+score =  0.8509897845608758
+
+
+ Validation results for fold =  6  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.6347826086956522
+recall =  0.9664804469273743
+precision =  0.5164179104477612
+------------------------------------------
+Training results for fold =  7  [C] =  0.25
+Final Results for all k folds
+score =  0.8538880439153163
+
+
+ Validation results for fold =  7  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7369565217391304
+recall =  0.9542857142857143
+precision =  0.5964285714285714
+------------------------------------------
+Training results for fold =  8  [C] =  0.25
+Final Results for all k folds
+score =  0.8435012791151669
+
+
+ Validation results for fold =  8  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7195652173913043
+recall =  0.9619565217391305
+precision =  0.5919732441471572
+------------------------------------------
+Training results for fold =  9  [C] =  0.25
+Final Results for all k folds
+score =  0.8505066927734364
+
+
+ Validation results for fold =  9  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7130434782608696
+recall =  0.9845360824742269
+precision =  0.596875
+------------------------------------------
+Training results for fold =  10  [C] =  0.25
+Final Results for all k folds
+score =  0.8500233096157992
+
+
+ Validation results for fold =  10  [C] =  0.25
+Final Results for all k folds
+accuracy =  0.7695652173913043
+recall =  0.9820359281437125
+precision =  0.6142322097378277
+
+
+
+
+================================
+Final Results for all k folds
+mean accuracy =  0.7311317551636329
+std dev. accuracy =  0.042820937966555075
+mean recall =  0.9704613748999222
+std dev. recall =  0.016056159531571027
+mean precision =  0.6004891692158085
+std dev. precision =  0.04321453782425454

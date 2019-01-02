@@ -1,0 +1,27 @@
+Results:
+
+1) Kmeans, best K on basis of SSE
+
+dataset			K 		SSE 		NMI
+
+dermatology		6		2.88.38		0.107
+Ecoli			5		70.47		0.55
+glass			4		116.037		0.24
+soybean			8		770.82		0.62
+vowels			5		1608.57		0.388		
+yeast			5		268.57		0.20
+
+
+2) GMM, best K on basis of SSE
+
+
+dataset			K 		SSE 		NMI
+
+dermatology		4		1216248.8	-1.09
+Ecoli			4		34725.7		-1.00
+glass			5		14165.2		-0.96
+soybean			4		118901.75	-1.28
+vowels			5		756131.33	-1.19
+yeast			5		515092.98	-1.03
+
+I am not able to understand how to interpret nmi graphs, according to me the K with highest nmi are the best.

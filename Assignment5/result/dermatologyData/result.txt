@@ -1,0 +1,23 @@
+gmm:
+
+based on nmi:
+
+	best cluster: 10
+	sse: 9.53
+	nmi: -6.4
+
+based on sse:
+
+	best cluster: 4,7
+	sse: 10.25, 8.93
+	nmi: -14.9, -8.28
+
+	The best cluster will be 7 as it has lower sse and nmi too.
+
+-------------------------------
+
+kmeans:
+
+best cluster: 4
+sse: 7.5
+nmi: -10.0

@@ -1,0 +1,23 @@
+gmm:
+
+based on nmi:
+
+	best cluster: 6 as there is sudden drop
+	sse =   0.4623686305241644
+	nmi =  -14.744477674296375
+
+based on sse:
+
+	best cluster: 5
+	sse =   0.4564868957775372
+	nmi =  -13.160635760670289
+
+	
+
+-------------------------------
+
+kmeans:
+
+K =   4
+sse =   0.1908269620054691
+nmi  -29.59866198629758

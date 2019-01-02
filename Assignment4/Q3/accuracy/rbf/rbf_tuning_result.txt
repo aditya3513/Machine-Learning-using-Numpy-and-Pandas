@@ -1,0 +1,122 @@
+------------------------------------------
+Training results for fold =  1  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8806763285024154
+
+
+ Validation results for fold =  1  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.7787418655097614
+recall =  0.9772727272727273
+precision =  0.6370370370370371
+------------------------------------------
+Training results for fold =  2  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8833607221318974
+
+
+ Validation results for fold =  2  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.8260869565217391
+recall =  0.9470588235294117
+precision =  0.6939655172413793
+------------------------------------------
+Training results for fold =  3  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.882636667191133
+
+
+ Validation results for fold =  3  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.8043478260869565
+recall =  0.9302325581395349
+precision =  0.6722689075630253
+------------------------------------------
+Training results for fold =  4  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8821532840334958
+
+
+ Validation results for fold =  4  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.8152173913043478
+recall =  0.9603960396039604
+precision =  0.7158671586715867
+------------------------------------------
+Training results for fold =  5  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8823945385570182
+
+
+ Validation results for fold =  5  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.8173913043478261
+recall =  0.9736842105263158
+precision =  0.7007575757575758
+------------------------------------------
+Training results for fold =  6  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8814292290927315
+
+
+ Validation results for fold =  6  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.7869565217391304
+recall =  0.9322033898305084
+precision =  0.6573705179282868
+------------------------------------------
+Training results for fold =  7  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8821532840334958
+
+
+ Validation results for fold =  7  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.7739130434782608
+recall =  0.9695431472081218
+precision =  0.6608996539792388
+------------------------------------------
+Training results for fold =  8  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8831191762381778
+
+
+ Validation results for fold =  8  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.8065217391304348
+recall =  0.946236559139785
+precision =  0.6901960784313725
+------------------------------------------
+Training results for fold =  9  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8823954126676107
+
+
+ Validation results for fold =  9  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.7739130434782608
+recall =  0.9671052631578947
+precision =  0.5975609756097561
+------------------------------------------
+Training results for fold =  10  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+score =  0.8828782130848529
+
+
+ Validation results for fold =  10  [gamma, C] =  [0.25, 0.5]
+Final Results for all k folds
+accuracy =  0.8130434782608695
+recall =  0.9581151832460733
+precision =  0.7011494252873564
+
+
+
+
+================================
+Final Results for all k folds
+mean accuracy =  0.7996133169857588
+std dev. accuracy =  0.01851412632140967
+mean recall =  0.9561847901654333
+std dev. recall =  0.01581445779556736
+mean precision =  0.6727072847506614
+std dev. precision =  0.03392710176068148
